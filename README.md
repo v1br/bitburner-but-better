@@ -81,7 +81,7 @@ alias worm=run HTTPWorm.exe
 📂 Running the project locally:
 
 Run this command to clone the entire repository:
-`https://github.com/v1br/bitburner-but-better.git`
+`git clone https://github.com/v1br/bitburner-but-better.git`
 
 Then copy the files into your `bitburner` save-file and restart the game. You need to update your aliases to the ones shown above. Make sure the filenames and pathnames match the stucture provided.
 
